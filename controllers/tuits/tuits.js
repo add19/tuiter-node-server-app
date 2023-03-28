@@ -10,6 +10,7 @@ export default [
     "avatar": "nodejs.png",
     "likes": 2345,
     "dislikes": 0,
+    "disliked": false,
     "handle": "@spacex",
     "tweet": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars. You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars",
     "image": "tesla.jpeg"
@@ -24,6 +25,7 @@ export default [
     "retweets": 12,
     "likes": 1500,
     "dislikes": 0,
+    "disliked": false,
     "avatar": "download.png",
     "handle": "@spacex",
     "tweet": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars. You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars",
@@ -36,6 +38,7 @@ export default [
     "time": "4d",
     "liked": true,
     "dislikes": 0,
+    "disliked": false,
     "comments": 223,
     "retweets": 12000,
     "avatar": "spaceximg.jpeg",
